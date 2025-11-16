@@ -1,7 +1,5 @@
 A simple retrieval augmented generation (RAG) system that lets you collect emails, upload documents, generate embeddings, and chat with GPT to extract useful information from your data.
 
-![AI Email Agent Screenshot]
-
 ## Setup Instructions
 
 1. **Clone the Repository**
