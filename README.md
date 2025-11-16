@@ -1,5 +1,7 @@
 A simple retrieval augmented generation (RAG) system that lets you collect emails, upload documents, generate embeddings, and chat with GPT to extract useful information from your data.
 
+https://github.com/its-manjeet/ai-email-agent/blob/master/660a9dac720660673dc6a065_image6.png?raw=true
+
 ## Setup Instructions
 
 1. **Clone the Repository**
