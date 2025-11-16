@@ -22,7 +22,7 @@ A simple retrieval augmented generation (RAG) system that lets you collect email
     ```env
     GMAIL_USERNAME=your_email@gmail.com
     GMAIL_PASSWORD=your_gmail_app_password 
-    OPENAI_API_KEY=your_openai_api_key
+    GEMINI_API_KEY=your_gemini_api_key
     ```
     *(Note: You must use an App Password for Gmail, not your main account password.)*
 
